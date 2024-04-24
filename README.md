@@ -1,6 +1,9 @@
 # phppot CAPTCHA Solver 
 
 
+![Screenshot_20240424_140643](https://github.com/rvizx/phppot-captcha-solver/assets/84989569/7a2a0e15-3bac-461c-a4d5-76753e9c8ce4)
+
+
 ### About
 
 The "phppot CAPTCHA solver" aims to show that it's not a secure CAPTCHA implementation by solving the CAPTCHA's using OCR.
