@@ -48,7 +48,7 @@ headers = {
     'DNT': '1',
     'Connection': 'keep-alive',
     'Referer': 'https://phppot.com/demo/php-captcha/',
-    'Cookie': 'PHPSESSID=hehe', # updaate this 
+    'Cookie': 'PHPSESSID=hehe', # update this 
     'Sec-Fetch-Dest': 'image',
     'Sec-Fetch-Mode': 'no-cors',
     'Sec-Fetch-Site': 'same-origin',
